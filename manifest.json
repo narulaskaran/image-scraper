@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+  
+    "name": "Image Scraper",
+    "description": "This extension allows user to scrape all the image from a webpage and download them in bulk to a local store on their machine.",
+    "version": "1.0",
+  
+    "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "activeTab",
+      "downloads",
+      "downloads.shelf"
+    ]
+  }
+  

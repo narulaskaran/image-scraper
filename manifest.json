@@ -12,7 +12,9 @@
     "permissions": [
       "activeTab",
       "downloads",
-      "downloads.shelf"
+      "downloads.shelf",
+      "tabs",
+      "<all_urls>"
     ]
   }
   

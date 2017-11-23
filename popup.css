@@ -7,3 +7,7 @@ div{
     margin-bottom: 1em;
     border-color: white;
 }
+a{
+    display:block;
+    text-decoration: none;
+}
